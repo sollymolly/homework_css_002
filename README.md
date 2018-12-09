@@ -21,9 +21,9 @@ Open the file `dogs/index.html`.
 * Keep it simple. Don't make the contents and page structure overly complicated.
 
 * Here are some examples I found in the Internet:
-- https://www.homewardpet.org/available-dogs-puppies/
-- http://www.herdofwy.com/availabledogs.html
-- https://www.aforeverhome.org/available-dogs/
+    - https://www.homewardpet.org/available-dogs-puppies/
+    - http://www.herdofwy.com/availabledogs.html
+    - https://www.aforeverhome.org/available-dogs/
 
 **What to turn in to the instructor:**
 

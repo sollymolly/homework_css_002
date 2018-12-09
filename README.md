@@ -37,5 +37,3 @@ $ git push
 ```
 
 - Ping your instructor in Slack.
-
-#### Disclaimer: The contents are modified based on the original contents from https://people.rit.edu/tjpnvc/courses/342/css_practice.htm.
